@@ -53,14 +53,16 @@
 </br>
 </div>
 <br />
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=harindur&theme=gotham&show_icons=true" alt="shamimsikder"/>
-
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=harindur&show_icons=true&theme=gotham"/>
+<p align="center">
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarinduR&theme=gotham&show_icons=true" alt="GitHub Streak Stats"/>
+    <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=HarinduR&show_icons=true&theme=gotham" alt="GitHub Stats"/>
 </p>
 
-<p align="center"><img  width="45%" height=450 src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=harindur&theme=gotham"/>
-  <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<p align="center">
+    <img width="45%" height="450" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=HarinduR&theme=gotham" alt="Top Languages"/>
+    <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animation"/>
 </p>
+
 
 ---
 
